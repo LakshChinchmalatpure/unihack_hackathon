@@ -1,0 +1,6 @@
+{
+  "name": "UniHack Industrial AI Product Intelligence",
+  "description": "Enterprise AI Product Intelligence engine for industrial B2B commerce. Enriches minimal SKU inputs into verified technical specs, UNSPSC/ETIM taxonomies, cross-references, and compliance audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
